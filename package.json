@@ -1,0 +1,13 @@
+{
+  "name": "repka-ffi-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper around ffi, ref, and ref-struct",
+  "main": "index.js",
+  "author": "Mark Repka",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ffi": "^2.3.0",
+    "ref-struct": "^1.1.0"
+  }
+}
